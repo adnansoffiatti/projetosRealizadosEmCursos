@@ -1,0 +1,53 @@
+
+body {
+    background: #d2d2c1 url(../img/fundo.png);
+    font: 16px, Arial, Helvetica, sans-serif;
+}
+
+#principal {
+    width: 900px;
+}
+
+/*Menu*/
+#menu {
+    background: #c5c5b2;
+    padding: 18px;
+}
+
+#menu a {
+    text-decoration: none;
+    padding: 10px;
+    color: #4b566a;
+}
+
+#menu a:hover {
+    color: white;
+}
+
+/*Conteúdo*/
+#content {
+    background: #e8e8d9;
+    padding: 10px;
+    color: #4b564a;
+}
+
+#content h2 {
+    color: #4b566a;
+    text-align: center;
+}
+
+h1 {
+    color: #828271;
+    font-size: 1.2em;
+}
+
+.foto-modelo {
+    border: 10px solid #c3c3ae;
+}
+
+/*Rodapé*/
+#rodape {
+    color: #4b564a;
+    text-align: center;
+}
+
